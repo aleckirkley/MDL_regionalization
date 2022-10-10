@@ -5,4 +5,4 @@ Ethnoracial distributions for each decade are ordered: ['Non-Hispanic White', 'N
 
 If you use this algorithm or the accompanying data, please cite:
 
-A. Kirkley, Spatial regionalization based on optimal information compression. Preprint arXiv:2111.01813 (2022).
+A. Kirkley, Spatial regionalization based on optimal information compression. Communications Physics 5, 249 (2022).
